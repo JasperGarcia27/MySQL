@@ -1,0 +1,21 @@
+1. List the books Authored by Marjorie Green.
+- The Busy Executive's Database Guide
+- You Can Combat Computer Stress!
+
+2. List the books Authored by Michael O'Leary.
+- Cooking with Computers
+
+3. Write the author/s of "The Busy Executive's Database Guide".
+- Marjorie Green
+- Abraham Bennet
+
+4. Identify the publisher of "But Is It User Friendly?".
+- ALgodata Infosystem
+
+5. List the books published by Algodata Infosystems.
+- The Busy Executive's Database Guide
+- Cooking with Computers
+- Straight Talk About Computers
+- But Is It User Friendly?
+- Secrets of Silicon Valley
+- Net Etiquette
